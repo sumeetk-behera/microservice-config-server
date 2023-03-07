@@ -7,7 +7,3 @@ eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
-    
-spring:
-  application:
-    name: hotel-service
